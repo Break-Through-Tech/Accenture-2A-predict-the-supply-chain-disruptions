@@ -17,36 +17,43 @@
 > ❌ Remember that this is a public repo. Do NOT include: Proprietary data, PII, API keys, credentials, or anything confidential.
 
 ---
+## 📋 BTT Internal Evaluation Notes
+*(This section is for BTT staff only — remove before sharing with students)*
 
-### 🔍 SME Feedback from the Break Through Tech Evaluation Team
+| Check | Status | Notes |
+|-------|--------|-------|
+| Python Compatibility | 🟢 | The tech stack is centered on Python and uses established ML libraries for classification, regression, NLP, and time series analysis. |
+| Data Readiness |  🟢 | The dataset is publicly available and under 1GB, ensuring it is manageable and ready for use without extensive cleansing. |
+| Resource Check | 🟡 | While free-tier tools like Google Colab are proposed, reliance on LLM APIs may require additional resources or permissions that require confirmation from Accenture. |
 
-*Challenge Advisor: Please address the following feedback by editing this page. Your AI Studio Coach can help make project adjustments as needed, too. In addition to the grey section above, this section should be removed before sharing the repo with your student team.*
+**Student Fit Score:** 8/10  
+**Technical Depth Score:** 7/10  
+**Overall Recommendation:** REVISE
 
----
+**Advisor Feedback Draft:**
+The project represents a timely and impactful area of exploration, allowing students to leverage a mix of ML techniques in a significant domain. However, consider two adjustments: refine the success metrics to focus more on actionable insights rather than purely numerical outcomes, and ensure that all team members have sufficient understanding of advanced techniques like LLMs prior to implementation. Let's leverage this project to deepen our understanding of the real-world applications of ML in supply chain management.
 
-# [Project Title]
+# Predict the Supply Chain disruptions
 
-**Company / Org:** [Company / Org Name]  
-**Challenge Advisor:** [Name, Title, Email]  
+**Company / Org:** Accenture  
+**Challenge Advisor:** Ashok Shivarajan, ashok27kumar@gmail.com  
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
 
-## 🏢 About [Company / Org Name]
+## 🏢 About Accenture
 
-[2-3 sentences about your company: what you do, your industry, etc. You may also choose to specify your specific department or team.]
+Accenture is a global professional services company providing a broad range of services across strategy, consulting, digital, technology, and operations. Our focus is on leveraging innovative technologies to help organizations improve their performance and deliver value to their customers.
 
 ---
 
 ## 🎯 The Challenge
 
 ### Project Summary
-[In 2-3 sentences, describe what you're asking the team to do. Be specific about the type of data, ML techniques, and potential impact.]
-
-> **Example:** "In this project, your team will use customer transaction data and classification algorithms to build a model that predicts which users are likely to churn. This will help our retention team prioritize outreach."
+Build an AI system that can predict supply chain disruptions and recommend mitigation actions using operational + contextual data.
 
 ### Success Criteria
-[What does success look like? Describe evaluation metrics (accuracy, F1 score, etc.) or qualitative outcomes that would make this project valuable to your company.]
+Model Performance (30%): Classification (ROC-AUC/F1-score), Regression (RMSE/MAE); Resilience Intelligence (25%): Quality of risk scoring; Business Impact (20%): Cost reduction, Service level improvement; Explainability & Storytelling (15%): Executive narrative, Visual dashboards; Innovation (10%): Graph ML/simulation models, Scenario planning.
 
 ### Project Milestones
 
@@ -54,9 +61,9 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 
 | Month | Milestone | Key Activities |
 |-------|-----------|----------------|
-| **September** | [e.g., Data Understanding] | [e.g., Explore dataset, handle missing values, document findings] |
-| **October** | [e.g., Model Development] | [e.g., Train baseline model, experiment with approaches, iterate] |
-| **November** | [e.g., Evaluation & Presentation] | [e.g., Finalize model, prepare presentation, document results] |
+| **September** | Data Understanding | Explore dataset, handle missing values, document findings |
+| **October** | Model Development | Train baseline model, experiment with approaches, iterate |
+| **November** | Evaluation & Presentation | Finalize model, prepare presentation, document results |
 
 > **Note for the team:** Please create a GitHub Projects board in this repository to break these milestones into weekly tasks. Go to the **Projects** tab → **New project** → Choose **Board** → Add columns for each month.
 
@@ -64,13 +71,13 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 
 ## 📊 Dataset
 
-**Name and Source:** [Dataset name and where it's from]  
-**Format:** [e.g., CSV, JSON, images]  
-**Size:** [Approximate size in MB/GB]  
-**Location:** [Link to dataset or instructions for accessing it]
+**Name and Source:** Supply Chain Data from Kaggle  
+**Format:** CSV  
+**Size:** under 1gb  
+**Location:** [Kaggle Competition Overview](https://www.kaggle.com/competitions/datathon-2022-upc-accenture/overview)
 
 ### Key Details
-- [Brief description of what's in the data]
+- Numerical / Quantitative and Time Series data stored in CSV/TSV format. The dataset is publicly available at: https://www.kaggle.com/competitions/datathon-2022-upc-accenture/overview
 - [Any known limitations or preprocessing needed]
 - [Link to data dictionary or documentation, if available]
 
@@ -78,13 +85,20 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 
 ## 🛠️ Suggested Approach
 
-**ML Problem Type:** [e.g., Classification, Regression, NLP, Computer Vision, LLM/RAG]
+**ML Problem Type:** Classification, Regression, NLP, Time Series Analysis
 
 **Recommended Libraries:**
-- [e.g., pandas, scikit-learn, TensorFlow, Hugging Face]
+- Classification
+- Regression
+- Recommendation Systems
+- Natural Language Processing (NLP)
+- Time Series Analysis
+- Deep Learning / Neural Networks
+- Large Language Models (LLMs)/ Generative AI
+- Transfer Learning / Pre-trained Models
 
 **Evaluation Metrics:**
-- [e.g., Accuracy, Precision/Recall, RMSE, BLEU score]
+- ROC-AUC, F1-score, RMSE, MAE
 
 ---
 
@@ -93,19 +107,20 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 The following resources will help your team understand the problem space and potential technical approaches for this project:
 
 **Background Reading:**
-- [e.g., Link to an article or blog post about the problem domain]
-- [e.g., Link to an industry report or case study]
+- [Supply Chain Disruption Management Article](#)
+- [Industry Report on Supply Chain Trends](#)
 
 **Technical Tutorials:**
-- [e.g., Link to a free tutorial on the ML technique(s) involved]
-- [e.g., Link to documentation for a key library or tool]
+- [Machine Learning Basics](#)
+- [Data Preparation Techniques](#)
 
 **Code Examples:**
-- [e.g., Link to a relevant GitHub repo]
-- [e.g., Link to a sample implementation or starter code]
+- [Relevant GitHub Repository on Supply Chain Models](#)
+- [Sample Implementation on LLMs](#)
 
 **Other:**
-- [Links to any additional resources — e.g., papers, videos, podcasts, etc.]
+- [Papers and Research on Supply Chain AI Applications](#)
+- [Videos and Podcasts discussing AI in Industry](#)
 
 *Feel free to explore beyond these, and share anything interesting you find with me!*
 
@@ -114,13 +129,13 @@ The following resources will help your team understand the problem space and pot
 ## 🤝 How We'll Work Together
 
 **Check-ins:** During our biweekly 60-min AI Studio Lab Section meeting block (2nd and 4th week of every month)  
-**Communication:** [e.g., Slack (Break Through Tech workspace) or email]  
-**Response time:** [e.g., Within 48 hours on weekdays]  
+**Communication:** Slack (Break Through Tech workspace)  
+**Response time:** Within 48 hours on weekdays  
 
 **Recommended Tools:**
-- **Coding:** [e.g., Google Colab, VS Code]
-- **Collaboration:** [e.g., GitHub, Notion]
-- **Virtual Meetings:** [e.g., Zoom, Google Meet]
+- **Coding:** Google Colab  
+- **Collaboration:** GitHub, Notion  
+- **Virtual Meetings:** Zoom, Google Meet  
 
 ---
 
@@ -130,10 +145,10 @@ The following resources will help your team understand the problem space and pot
 2. **Begin reviewing the dataset** using the link above
 3. **Read the GitHub Projects documentation** [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 
-I’m excited to work with you!
+I'm excited to work with you!
 
 ---
 
 ## ❓ Questions?
 
-Please bring any questions to our first meeting during the week of August 24th (Break Through Tech’s Bridge to Studio - Session B). 
+Please bring any questions to our first meeting during the week of August 24th (Break Through Tech's Bridge to Studio - Session B).
