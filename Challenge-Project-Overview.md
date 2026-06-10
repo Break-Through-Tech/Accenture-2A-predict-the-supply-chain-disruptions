@@ -24,14 +24,14 @@
 |-------|--------|-------|
 | Python Compatibility | 🟢 | The tech stack is centered on Python and uses established ML libraries for classification, regression, NLP, and time series analysis. |
 | Data Readiness |  🟢 | The dataset is publicly available and under 1GB, ensuring it is manageable and ready for use without extensive cleansing. |
-| Resource Check | 🟡 | While free-tier tools like Google Colab are proposed, reliance on LLM APIs may require additional resources or permissions that require confirmation from Accenture. |
+| Resource Check | 🟢 |  While the project is designed for free-tier environments like Google Colab, students may need to explore open-source alternatives if they choose to incorporate LLMs |
 
 **Student Fit Score:** 8/10  
 **Technical Depth Score:** 7/10  
 **Overall Recommendation:** REVISE
 
 **Advisor Feedback Draft:**
-The project represents a timely and impactful area of exploration, allowing students to leverage a mix of ML techniques in a significant domain. However, consider two adjustments: refine the success metrics to focus more on actionable insights rather than purely numerical outcomes, and ensure that all team members have sufficient understanding of advanced techniques like LLMs prior to implementation. Let's leverage this project to deepen our understanding of the real-world applications of ML in supply chain management.
+The project represents a timely and impactful area of exploration, allowing students to leverage a mix of ML techniques in a significant domain. However, consider two adjustments: refine the success metrics to prioritize actionable insights over purely numerical outcomes, and ensure that all team members have a sufficient understanding of advanced techniques such as LLMs before implementation. Let's leverage this project to deepen Fellow's understanding of the real-world applications of ML in supply chain management.
 
 # Predict the Supply Chain disruptions
 
