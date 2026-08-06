@@ -55,12 +55,12 @@ Build an AI system that can predict supply chain disruptions and recommend mitig
 ### Success Criteria
 Model Performance (30%): Classification (ROC-AUC/F1-score), Regression (RMSE/MAE); Resilience Intelligence (25%): Quality of risk scoring; Business Impact (20%): Cost reduction, Service level improvement; Explainability & Storytelling (15%): Executive narrative, Visual dashboards; Innovation (10%): Graph ML/simulation models, Scenario planning.
 
-**Model Performance (30%)**
-Classification: ROC-AUC / F1-score
-Regression: RMSE / MAE
+**Model Performance (30%)**   
+- Classification: ROC-AUC / F1-score
+- Regression: RMSE / MAE
 
-**Resilience Intelligence (25%)**
-Quality of risk scoring
+**Resilience Intelligence (25%)**   
+Quality of risk scoring   
 Ability to:
 - Identify high-risk suppliers/routes
 - Detect early warning signals
