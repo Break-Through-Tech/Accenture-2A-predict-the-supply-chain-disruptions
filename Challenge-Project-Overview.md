@@ -85,10 +85,9 @@ The stretch goal will be to provided recommended actions based on the supply cha
 Use these milestones to guide your work. Your team will create a GitHub Projects board to track tasks within each milestone. 
 | Month | Milestone | Key Activities | 
 |-------|-----------|----------------| 
-| September | Data Exploration & Preprocessing | Conduct exploratory data analysis on the provided Kaggle datasets, perform data cleaning, and implement outlier detection to prepare the foundation for predictive modeling. | 
-| October | Feature Engineering & Baseline Modeling | Engineer critical temporal and categorical features while deploying baseline models to establish performance benchmarks for disruption classification and forecasting. | 
-| November | Model Optimization & Evaluation | Execute iterative hyperparameter tuning, perform cross-validation against resilience metrics, and conduct stress testing for predictive model stability. | 
-| December | Insights, Deliverables & Presentation | Finalize the executive narrative, integrate dashboard visualizations of model outcomes, and package all code assets for final handover to the Accenture team. |
+| September | Working ML Model | [TBD] | 
+| October | Fine-tuned ML Model | [TBD] | 
+| November | Robust Working Model, should be able to work for real time scenarios. Predict the next supply chain disruptions. | [TBD] | 
 
 ---
 
