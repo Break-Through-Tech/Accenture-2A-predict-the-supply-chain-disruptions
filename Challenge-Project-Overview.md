@@ -83,10 +83,6 @@ The stretch goal will be to provided recommended actions based on the supply cha
 
 ### Project Milestones
 
-Use these milestones to guide your work. Your team will create a **GitHub Projects board** to track tasks within each milestone.
-
-Project Milestones
-
 Use these milestones to guide your work. Your team will create a GitHub Projects board to track tasks within each milestone. 
 
 | Month | Milestone | Key Activities | 
@@ -94,7 +90,6 @@ Use these milestones to guide your work. Your team will create a GitHub Projects
 | September | Data Exploration & Preprocessing | Parsing raw PDF/text data, mapping token-level labels, and performing exploratory data analysis on the 41 CUAD categories. | | October | Feature Engineering & Baseline Modeling | Implementing chunk-based multi-label classification models and establishing baseline transformer encoder performance metrics. | 
 | November | Model Optimization & Evaluation | Fine-tuning model parameters, integrating the risk-scoring rule engine, and validating outputs against advisor-provided benchmarks. | 
 | December | Insights, Deliverables & Presentation | Quantifying time-savings, documenting the final pipeline architecture, and synthesizing business impact findings for stakeholders. |
-
 
 
 ---
