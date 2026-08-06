@@ -53,7 +53,6 @@ Accenture is a global professional services company providing a broad range of s
 Build an AI system that can predict supply chain disruptions and recommend mitigation actions using operational + contextual data.
 
 ### Success Criteria
-Model Performance (30%): Classification (ROC-AUC/F1-score), Regression (RMSE/MAE); Resilience Intelligence (25%): Quality of risk scoring; Business Impact (20%): Cost reduction, Service level improvement; Explainability & Storytelling (15%): Executive narrative, Visual dashboards; Innovation (10%): Graph ML/simulation models, Scenario planning.
 
 **Model Performance (30%)**   
 - Classification: ROC-AUC / F1-score   
