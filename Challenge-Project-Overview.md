@@ -56,28 +56,28 @@ Build an AI system that can predict supply chain disruptions and recommend mitig
 Model Performance (30%): Classification (ROC-AUC/F1-score), Regression (RMSE/MAE); Resilience Intelligence (25%): Quality of risk scoring; Business Impact (20%): Cost reduction, Service level improvement; Explainability & Storytelling (15%): Executive narrative, Visual dashboards; Innovation (10%): Graph ML/simulation models, Scenario planning.
 
 **Model Performance (30%)**   
-- Classification: ROC-AUC / F1-score
+- Classification: ROC-AUC / F1-score   
 - Regression: RMSE / MAE
 
 **Resilience Intelligence (25%)**   
 Quality of risk scoring   
-Ability to:
-- Identify high-risk suppliers/routes
+Ability to:   
+- Identify high-risk suppliers/routes   
 - Detect early warning signals
 
 **Business Impact (20%)**
-Clear articulation of:
-- Cost reduction
+Clear articulation of:   
+- Cost reduction   
 - Service level improvement
 
-**Explainability & Storytelling (15%)**
-Executive narrative
-Visual dashboards (aligns with your AI4BI focus)
+**Explainability & Storytelling (15%)**   
+Executive narrative   
+Visual dashboards (aligns with your AI4BI focus)   
 
-**Innovation (10%)**
-Use of:
-- Graph ML / simulation models
-- Scenario planning
+**Innovation (10%)**   
+Use of:   
+- Graph ML / simulation models  
+- Scenario planning   
 
 ### Stretch Goals
 The stretch goal will be to provided recommended actions based on the supply chain disruptions. This may not be completed within the three months window.
