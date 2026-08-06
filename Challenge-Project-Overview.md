@@ -82,7 +82,8 @@ Use of:
 The stretch goal will be to provided recommended actions based on the supply chain disruptions. This may not be completed within the three months window.
 
 ### Project Milestones
-Use these milestones to guide your work. Your team will create a GitHub Projects board to track tasks within each milestone. | Month | Milestone | Key Activities | 
+Use these milestones to guide your work. Your team will create a GitHub Projects board to track tasks within each milestone. 
+| Month | Milestone | Key Activities | 
 |-------|-----------|----------------| 
 | September | Data Exploration & Preprocessing | Conduct exploratory data analysis on the provided Kaggle datasets, perform data cleaning, and implement outlier detection to prepare the foundation for predictive modeling. | 
 | October | Feature Engineering & Baseline Modeling | Engineer critical temporal and categorical features while deploying baseline models to establish performance benchmarks for disruption classification and forecasting. | 
