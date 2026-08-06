@@ -55,6 +55,33 @@ Build an AI system that can predict supply chain disruptions and recommend mitig
 ### Success Criteria
 Model Performance (30%): Classification (ROC-AUC/F1-score), Regression (RMSE/MAE); Resilience Intelligence (25%): Quality of risk scoring; Business Impact (20%): Cost reduction, Service level improvement; Explainability & Storytelling (15%): Executive narrative, Visual dashboards; Innovation (10%): Graph ML/simulation models, Scenario planning.
 
+**Model Performance (30%)**
+Classification: ROC-AUC / F1-score
+Regression: RMSE / MAE
+
+**Resilience Intelligence (25%)**
+Quality of risk scoring
+Ability to:
+- Identify high-risk suppliers/routes
+- Detect early warning signals
+
+**Business Impact (20%)**
+Clear articulation of:
+- Cost reduction
+- Service level improvement
+
+**Explainability & Storytelling (15%)**
+Executive narrative
+Visual dashboards (aligns with your AI4BI focus)
+
+**Innovation (10%)**
+Use of:
+- Graph ML / simulation models
+- Scenario planning
+
+### Stretch Goals
+The stretch goal will be to provided recommended actions based on the supply chain disruptions. This may not be completed within the three months window.
+
 ### Project Milestones
 
 Use these milestones to guide your work. Your team will create a **GitHub Projects board** to track tasks within each milestone.
@@ -74,10 +101,10 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 **Name and Source:** Supply Chain Data from Kaggle  
 **Format:** CSV  
 **Size:** under 1gb  
-**Location:** [Kaggle Competition Overview](https://www.kaggle.com/competitions/datathon-2022-upc-accenture/overview)
+**Location:** https://www.kaggle.com/competitions/datathon-2022-upc-accenture/overview
 
 ### Key Details
-- Numerical / Quantitative and Time Series data stored in CSV/TSV format. The dataset is publicly available at: https://www.kaggle.com/competitions/datathon-2022-upc-accenture/overview
+- Numerical / Quantitative and Time Series data stored in CSV/TSV format. 
 - [Any known limitations or preprocessing needed]
 - [Link to data dictionary or documentation, if available]
 
@@ -88,14 +115,7 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 **ML Problem Type:** Classification, Regression, NLP, Time Series Analysis
 
 **Recommended Libraries:**
-- Classification
-- Regression
-- Recommendation Systems
-- Natural Language Processing (NLP)
-- Time Series Analysis
-- Deep Learning / Neural Networks
-- Large Language Models (LLMs)/ Generative AI
-- Transfer Learning / Pre-trained Models
+- [e.g., pandas, scikit-learn, TensorFlow, Hugging Face]
 
 **Evaluation Metrics:**
 - ROC-AUC, F1-score, RMSE, MAE
@@ -107,20 +127,19 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 The following resources will help your team understand the problem space and potential technical approaches for this project:
 
 **Background Reading:**
-- [Supply Chain Disruption Management Article](#)
-- [Industry Report on Supply Chain Trends](#)
+- [e.g., Link to an article or blog post about the problem domain]
+- [e.g., Link to an industry report or case study]
 
 **Technical Tutorials:**
-- [Machine Learning Basics](#)
-- [Data Preparation Techniques](#)
+- [e.g., Link to a free tutorial on the ML technique(s) involved]
+- [e.g., Link to documentation for a key library or tool]
 
 **Code Examples:**
-- [Relevant GitHub Repository on Supply Chain Models](#)
-- [Sample Implementation on LLMs](#)
+- [e.g., Link to a relevant GitHub repo]
+- [e.g., Link to a sample implementation or starter code]
 
 **Other:**
-- [Papers and Research on Supply Chain AI Applications](#)
-- [Videos and Podcasts discussing AI in Industry](#)
+- [Links to any additional resources — e.g., papers, videos, podcasts, etc.]
 
 *Feel free to explore beyond these, and share anything interesting you find with me!*
 
@@ -128,14 +147,19 @@ The following resources will help your team understand the problem space and pot
 
 ## 🤝 How We'll Work Together
 
-**Check-ins:** During our biweekly 60-min AI Studio Lab Section meeting block (2nd and 4th week of every month)  
-**Communication:** Slack (Break Through Tech workspace)  
-**Response time:** Within 48 hours on weekdays  
+**Official check-ins:** During our biweekly 45-minute AI Studio Lab Section meeting block (2nd and 4th week of every month)
 
-**Recommended Tools:**
-- **Coding:** Google Colab  
-- **Collaboration:** GitHub, Notion  
-- **Virtual Meetings:** Zoom, Google Meet  
+ **Other ways to reach out to me with questions:** 
+* [e.g., Your team's channel within Break Through Tech’s Discord space]
+* [e.g., Email; please copy your teammates and AI Studio Coach]
+* [e.g., Request a team check-in on Zoom]
+* [Note: I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.]
+
+> 💡 **Challenge Advisor: Please update the above based on your availability and preference. If you are not able to answer questions or meet with fellows outside of the biweekly Lab Section check-ins, simply write in "N/A (only available during the official check-in times)"**
+
+**Recommended free coding / collaboration tools**
+* […]
+* […]
 
 ---
 
@@ -145,10 +169,10 @@ The following resources will help your team understand the problem space and pot
 2. **Begin reviewing the dataset** using the link above
 3. **Read the GitHub Projects documentation** [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 
-I'm excited to work with you!
+I’m excited to work with you!
 
 ---
 
 ## ❓ Questions?
 
-Please bring any questions to our first meeting during the week of August 24th (Break Through Tech's Bridge to Studio - Session B).
+Please bring any questions to our first meeting during the week of August 24th (Break Through Tech’s Bridge to Studio - Session C). 
