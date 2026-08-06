@@ -85,13 +85,11 @@ The stretch goal will be to provided recommended actions based on the supply cha
 
 Use these milestones to guide your work. Your team will create a **GitHub Projects board** to track tasks within each milestone.
 
-| Month | Milestone | Key Activities |
-|-------|-----------|----------------|
-| **September** | Working ML Model | [TBD] |
-| **October** | Fine-tuned ML Model | [TBD] |
-| **November** | -Robust Working Model, should be able to work for real time scenarios. Predict the next supply chain disruptions. | [TBD] |
+Project Milestones
 
-> **Note for the team:** Please create a GitHub Projects board in this repository to break these milestones into weekly tasks. Go to the **Projects** tab → **New project** → Choose **Board** → Add columns for each month.
+Use these milestones to guide your work. Your team will create a GitHub Projects board to track tasks within each milestone. | Month | Milestone | Key Activities | |-------|-----------|----------------| | September | Data Exploration & Preprocessing | Parsing raw PDF/text data, mapping token-level labels, and performing exploratory data analysis on the 41 CUAD categories. | | October | Feature Engineering & Baseline Modeling | Implementing chunk-based multi-label classification models and establishing baseline transformer encoder performance metrics. | | November | Model Optimization & Evaluation | Fine-tuning model parameters, integrating the risk-scoring rule engine, and validating outputs against advisor-provided benchmarks. | | December | Insights, Deliverables & Presentation | Quantifying time-savings, documenting the final pipeline architecture, and synthesizing business impact findings for stakeholders. |
+
+
 
 ---
 
