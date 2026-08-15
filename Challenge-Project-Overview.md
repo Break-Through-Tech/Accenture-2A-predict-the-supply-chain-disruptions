@@ -37,7 +37,7 @@ The project represents a timely and impactful area of exploration, allowing stud
 
 **Company / Org:** Accenture  
 **Challenge Advisor:** Ashok Shivarajan, ashok27kumar@gmail.com  
-**AI Studio Coach:** Swagath Babu, swagath.babu@breakthroughtech.org 
+**AI Studio Coach:** Swagath Babu, swagath.babu@breakthroughtech.org    
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
