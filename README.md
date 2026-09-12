@@ -12,7 +12,7 @@
 |------------------|---------------|--------------------------------------------------------------------------|
 | John Huynh    | @johnhyh24 | Data exploration, visualization, overall project coordination            |
 | Jordan Gasaatura   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
-| Muruah Abedin     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
+| Maruah Abedin     | @maruuu26  | Data preprocessing, feature engineering, data validation                 |
 | Yala Huang      | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
 | Timothy Do       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
 | Tinuola Gbadamosi       | @ggt-tinu    | Model evaluation, performance analysis, results interpretation           |
