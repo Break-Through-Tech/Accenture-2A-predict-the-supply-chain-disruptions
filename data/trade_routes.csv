@@ -1,0 +1,51 @@
+route_id,origin_country,destination_country,distance_km,shipping_method,trade_route_type,estimated_transit_days
+R00001,India,United States,8746,Rail,Consumer Goods,19
+R00002,Japan,China,5420,Air,Agriculture,29
+R00003,Australia,China,12247,Rail,Consumer Goods,16
+R00004,Australia,Canada,12143,Road,Energy,32
+R00005,United Kingdom,United States,14048,Sea,Energy,37
+R00006,Germany,Australia,2722,Sea,Energy,40
+R00007,India,China,11681,Rail,Technology,29
+R00008,India,Canada,13710,Rail,Technology,31
+R00009,Japan,Canada,5743,Road,Energy,7
+R00010,Germany,India,8886,Rail,Energy,15
+R00011,United Kingdom,France,5808,Air,Agriculture,41
+R00012,Japan,France,4901,Road,Technology,31
+R00013,Australia,Canada,1750,Sea,Energy,30
+R00014,India,France,8293,Air,Consumer Goods,13
+R00015,United Kingdom,Australia,6591,Road,Consumer Goods,5
+R00016,United States,France,11863,Rail,Energy,34
+R00017,Brazil,France,9322,Sea,Energy,28
+R00018,India,China,647,Sea,Technology,18
+R00019,France,United Kingdom,5731,Air,Agriculture,11
+R00020,France,Japan,9742,Air,Manufacturing,3
+R00021,United States,United Kingdom,7235,Rail,Manufacturing,3
+R00022,United Kingdom,India,5481,Sea,Consumer Goods,36
+R00023,United States,Japan,9599,Air,Consumer Goods,45
+R00024,India,France,13578,Rail,Consumer Goods,45
+R00025,Brazil,Germany,5571,Rail,Manufacturing,38
+R00026,Australia,Japan,3762,Air,Agriculture,16
+R00027,United Kingdom,Australia,1375,Road,Energy,31
+R00028,United Kingdom,United States,8404,Air,Technology,30
+R00029,India,Canada,10456,Road,Consumer Goods,8
+R00030,Canada,China,3541,Rail,Technology,21
+R00031,China,Brazil,7000,Sea,Energy,38
+R00032,Japan,Brazil,8488,Air,Energy,43
+R00033,China,United Kingdom,6072,Air,Agriculture,21
+R00034,France,United States,11716,Rail,Manufacturing,15
+R00035,China,Canada,4983,Road,Consumer Goods,5
+R00036,France,Canada,10519,Road,Energy,45
+R00037,Canada,Germany,9189,Sea,Consumer Goods,44
+R00038,China,Canada,564,Rail,Technology,25
+R00039,Canada,India,10109,Air,Consumer Goods,26
+R00040,Japan,India,3899,Sea,Agriculture,36
+R00041,United States,Japan,12683,Road,Energy,16
+R00042,Germany,China,4162,Rail,Energy,27
+R00043,Australia,Germany,12700,Rail,Consumer Goods,12
+R00044,Brazil,Canada,10335,Sea,Agriculture,24
+R00045,United Kingdom,Japan,1495,Sea,Consumer Goods,25
+R00046,Canada,France,8645,Rail,Agriculture,7
+R00047,China,Australia,5124,Road,Energy,36
+R00048,Brazil,Japan,1103,Rail,Energy,22
+R00049,United Kingdom,China,828,Air,Consumer Goods,19
+R00050,Brazil,United States,8070,Sea,Consumer Goods,28
