@@ -15,7 +15,7 @@
 | Muruah Abedin     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
 | Yala Huang      | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
 | Timothy Do       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
-| Tinuola Gbadamosi       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
+| Tinuola Gbadamosi       | @ggt-tinu    | Model evaluation, performance analysis, results interpretation           |
 | Boutheine Teyeb       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
 
 ---
