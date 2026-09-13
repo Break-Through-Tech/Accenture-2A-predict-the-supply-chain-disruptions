@@ -1,22 +1,19 @@
-# AI Studio Challenge Project Title
-
-> 💡 **Note for the team:** This is just a template. Update the above title with your AI Studio Challenge Project name. Remove all guidance notes and example text in this template and populate this README with your own content. You can work on this README throughout AI Studio, and get feedback from your AI Studio Coach and Challenge Advisor before finalizing it.  
+# AI System Predicting Supply Chain Disruptions
 
 ---
 
 ### 👥 **Team Members**
 
-**Example:**
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| John Huynh    | @johnhyh24 | Data exploration, visualization, overall project coordination            |
-| Jordan Gasaatura   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
-| Maruah Abedin     | @maruuu26  | Data preprocessing, feature engineering, data validation                 |
-| Yala Huang      | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
-| Timothy Do       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
-| Tinuola Gbadamosi       | @ggt-tinu    | Model evaluation, performance analysis, results interpretation           |
-| Boutheine Teyeb       | @boutheinet    | Model evaluation, performance analysis, results interpretation           |
+| John Huynh    | @johnhyh24 | N/A |
+| Jordan Gasaatura   | @jramirez     | N/A |
+| Maruah Abedin     | @maruuu26  | N/A |
+| Yala Huang      | @pmehta       | N/A |
+| Timothy Do       | @t1modo    | N/A |
+| Tinuola Gbadamosi       | @ggt-tinu    | N/A |
+| Boutheine Teyeb       | @boutheinet    | N/A |
 
 ---
 
