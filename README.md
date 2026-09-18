@@ -10,7 +10,7 @@
 | John Huynh    | @johnhyh24 | N/A |
 | Jordan Gasaatura   | @jramirez     | N/A |
 | Maruah Abedin     | @maruuu26  | N/A |
-| Yala Huang      | @pmehta       | N/A |
+| Yala Huang Feng     | @yalah5084       | N/A |
 | Timothy Do       | @t1modo    | N/A |
 | Tinuola Gbadamosi       | @ggt-tinu    | N/A |
 | Boutheine Teyeb       | @boutheinet    | N/A |
