@@ -13,7 +13,7 @@ There are a total of 5 CSV files to consider:
     - Contains 31,300 rows, one per route per week (50 routes * 626 weeks). It has volume, delay, cost, congestion, weather and geopolitical risk scores, emissions, and the target `route_status` (Normal / Delayed / Disrupted). This is what we train the prediction model on.
 ## Data Merge Summary (TL;DR)
 
-Full details are in `notebooks/data_preparation.ipynb`. The result is saved to `data/preprocessed/supply_chain_disruption.csv` (31,300 rows, 48 columns).
+Full details are in `notebooks/01_data_preparation.ipynb`. The result is saved to `data/preprocessed/supply_chain_disruption.csv` (31,300 rows, 48 columns).
 
 **Base file:** `weekly_route_operations.csv`. Every other file is joined onto it, so the output keeps one row per route per week.
 
