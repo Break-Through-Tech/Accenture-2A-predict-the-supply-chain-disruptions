@@ -7,7 +7,7 @@
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| John Hunh    | @johnhyh24 | N/A |
+| John Huynh    | @johnhyh24 | N/A |
 | Jordan Gasaatura   | @Jordan-G-CS     | N/A |
 | Maruah Abedin     | @maruuu26  | N/A |
 | Yala Huang Feng     | @yalah5084       | N/A |
