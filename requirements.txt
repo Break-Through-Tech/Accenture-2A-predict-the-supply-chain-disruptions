@@ -5,3 +5,6 @@ seaborn
 scikit-learn
 jupyter
 ipykernel
+lightgbm
+xgboost
+catboost
