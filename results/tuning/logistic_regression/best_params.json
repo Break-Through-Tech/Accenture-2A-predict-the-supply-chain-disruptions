@@ -1,0 +1,9 @@
+{
+  "model": "Logistic Regression",
+  "params": {
+    "model__C": 0.12093436800433305,
+    "model__l1_ratio": 0.8832802589188683,
+    "splines": "SplineTransformer(n_knots=10)"
+  },
+  "disrupted_threshold": 0.85
+}
