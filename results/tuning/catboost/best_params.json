@@ -1,0 +1,13 @@
+{
+  "model": "CatBoost",
+  "params": {
+    "bagging_temperature": 0.22649577519793795,
+    "border_count": 254,
+    "depth": 6,
+    "iterations": 688,
+    "l2_leaf_reg": 10.485733570643786,
+    "learning_rate": 0.03726104236509947,
+    "random_strength": 7.472397689332939
+  },
+  "disrupted_threshold": 0.79
+}
