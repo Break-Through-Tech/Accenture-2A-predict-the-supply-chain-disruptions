@@ -5,6 +5,7 @@ There are a total of 5 CSV files to consider:
     - Weekly global commodity prices (oil, gas, steel, wheat, copper) and a combined `commodity_stress_index` from 2015 - 2026. Gives the economic backdrop that pushes up fuel and freight costs.
 - **country_metadata.csv**
     - One row for each of the 10 countries: region, income group, GDP, trade dependency, port capacity and logistics performance. Shows how exposed or resilient each country on a route is.
+    - The 10 countries are: China, India, United States, Germany, Japan, Brazil, United Kingdom, France, Canada and Australia.
 - **geopolitical_events.csv**
     - About 10k dated events (strikes, sanctions, conflicts, cyber attacks) with severity, affected region, duration and `risk_increase`. Includes 3 major shocks: COVID, the Russia-Ukraine war and the Red Sea crisis. These are outside risk drivers and possible early warning signals.
 - **trade_routes.csv**
