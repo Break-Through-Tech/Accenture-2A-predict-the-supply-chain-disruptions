@@ -30,13 +30,20 @@
 
 ## 👩🏽‍💻 **Setup and Installation**
 
-**Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
+> For a more detailed walkthrough, see [HOW-TO-RUN.md](HOW-TO-RUN.md).
 
-* How to clone the repository
-* How to install dependencies
-* How to set up the environment
-* How to access the dataset(s)
-* How to run the notebook or scripts
+**Quick start** (Python 3.11–3.13; on Mac, run `brew install libomp` first, which LightGBM and XGBoost need):
+
+```bash
+git clone https://github.com/Break-Through-Tech/Accenture-2A-predict-the-supply-chain-disruptions.git
+cd Accenture-2A-predict-the-supply-chain-disruptions
+python3 -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+jupyter notebook                   # then open the notebooks/ folder
+```
+
+The datasets are already in [data/](data), so there's nothing extra to download. Run the notebooks in number order (`01` → `02` → `02_1` → `02_2` → `03` → `03_2_*`). Every step's output is committed, so you can also start at any notebook.
 
 ---
 
