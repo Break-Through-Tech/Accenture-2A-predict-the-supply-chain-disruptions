@@ -1,10 +1,23 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+# Python packages needed to run every notebook in this repo.
+# Install with:  pip install -r requirements.txt
+# Recommended Python version: 3.11, 3.12 or 3.13
+# Mac users: also run `brew install libomp` (LightGBM and XGBoost need it)
+
+# Core data handling
+numpy>=1.26
+pandas>=2.2
+scipy>=1.11
+
+# Plotting
+matplotlib>=3.8
+seaborn>=0.13
+
+# Machine learning
+scikit-learn>=1.4
+lightgbm>=4.0
+xgboost>=2.0
+catboost>=1.2
+
+# Running the notebooks (Jupyter + the kernel VS Code uses)
 jupyter
 ipykernel
-lightgbm
-xgboost
-catboost
