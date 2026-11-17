@@ -101,6 +101,7 @@ Notebooks use relative paths (`../data/...`), so run them from inside `notebooks
 | `02_exploratory_analysis` | EDA | — |
 | `02_1_correlation_tests` | Feature/target correlation checks | — |
 | `02_2_feature_selection` | Feature selection, train/test split | `data/preprocessed/model_ready.csv` |
+| `02_3_iid_validation` | Checks that rows are independent and identically distributed (supports the random split) | — |
 | `03_baseline_model_testing` | Compare 5 models with stratified 5-fold CV | `results/baseline/<model>/` |
 | `03_2_baseline_model_tuning_*` | Tune each model (any order); uses `tuning_setup.py` | `results/tuning/<model>/` |
 | `03_3_confusion_matrices` | Confusion matrices for all 10 models (untuned + tuned), loaded from `results/` | — |
