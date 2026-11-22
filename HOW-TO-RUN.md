@@ -104,6 +104,8 @@ Notebooks use relative paths (`../data/...`), so run them from inside `notebooks
 | `03_baseline_model_testing` | Compare 5 models with stratified 5-fold CV | `results/baseline/<model>/` |
 | `03_2_baseline_model_tuning_*` | Tune each model (any order); uses `tuning_setup.py` | `results/tuning/<model>/` |
 | `03_3_confusion_matrices` | Confusion matrices for all 10 models (untuned + tuned), loaded from `results/` | — |
+| `03_4_disruption_threshold_recall` | Lower Disrupted thresholds for higher recall, from saved results | — |
+| `04_forward_prediction_comparison` | Week *t* → week *t+1* forecasting test: chronological split, CatBoost and LightGBM, with and without lag/rolling features | `results/forward_prediction/` |
 
 All outputs are committed, so you can start at any notebook. The tuning notebooks are slow and overwrite `results/tuning/` when run.
 

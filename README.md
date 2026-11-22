@@ -43,7 +43,7 @@ pip install -r requirements.txt
 jupyter notebook                   # then open the notebooks/ folder
 ```
 
-The datasets are already in [data/](data), so there's nothing extra to download. Run the notebooks in number order (`01` → `02` → `02_1` → `02_2` → `03` → `03_2_*`). Every step's output is committed, so you can also start at any notebook.
+The datasets are already in [data/](data), so there's nothing extra to download. Run the notebooks in number order (`01` → `02` → `02_1` → `02_2` → `03` → `03_2_*` → `03_3` → `03_4` → `04`). Every step's output is committed, so you can also start at any notebook.
 
 ---
 
