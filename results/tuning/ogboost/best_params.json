@@ -1,0 +1,12 @@
+{
+  "model": "OGBoost",
+  "params": {
+    "base_learner__max_depth": 5,
+    "base_learner__max_features": 0.6629794526009424,
+    "base_learner__min_samples_leaf": 346,
+    "learning_rate": 0.04069573684069522,
+    "link_function": "cauchit",
+    "n_estimators": 247
+  },
+  "disrupted_threshold": 0.75
+}

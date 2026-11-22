@@ -13,10 +13,11 @@ matplotlib>=3.8
 seaborn>=0.13
 
 # Machine learning
-scikit-learn>=1.4
+scikit-learn>=1.6    # ogboost needs 1.6 or newer
 lightgbm>=4.0
 xgboost>=2.0
 catboost>=1.2
+ogboost>=0.8.4       # Ordinal Gradient Boosting (03_2_baseline_model_tuning_ogboost)
 
 # Running the notebooks (Jupyter + the kernel VS Code uses)
 jupyter
