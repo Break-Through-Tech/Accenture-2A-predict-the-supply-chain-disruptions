@@ -1,0 +1,15 @@
+{
+  "model": "LightGBM",
+  "params": {
+    "colsample_bytree": 0.6955303037866204,
+    "learning_rate": 0.009793166754027884,
+    "max_depth": 6,
+    "min_child_samples": 6,
+    "n_estimators": 1121,
+    "num_leaves": 9,
+    "reg_alpha": 0.00678838791242122,
+    "reg_lambda": 0.18655260217376832,
+    "subsample": 0.5156566462277793
+  },
+  "disrupted_threshold": 0.81
+}

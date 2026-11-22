@@ -1,0 +1,13 @@
+{
+  "model": "Random Forest",
+  "params": {
+    "criterion": "entropy",
+    "max_depth": 10,
+    "max_features": 5,
+    "max_samples": 0.7322370567394015,
+    "min_samples_leaf": 58,
+    "min_samples_split": 23,
+    "n_estimators": 352
+  },
+  "disrupted_threshold": 0.82
+}

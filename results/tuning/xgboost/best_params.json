@@ -1,0 +1,15 @@
+{
+  "model": "XGBoost",
+  "params": {
+    "colsample_bytree": 0.5290967977542218,
+    "gamma": 2.952122660416529,
+    "learning_rate": 0.025564942111668827,
+    "max_depth": 7,
+    "min_child_weight": 13.432654663584534,
+    "n_estimators": 587,
+    "reg_alpha": 5.475906062783603,
+    "reg_lambda": 0.8218863761999352,
+    "subsample": 0.7583481287132834
+  },
+  "disrupted_threshold": 0.8
+}
