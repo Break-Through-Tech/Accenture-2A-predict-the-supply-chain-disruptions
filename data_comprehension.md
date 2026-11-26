@@ -35,7 +35,7 @@ Full details are in `notebooks/01_data_preparation.ipynb`. The result is saved t
     - **Major shocks:** COVID (all routes) and the Russia-Ukraine war (routes to or from Europe) became 0/1 flags. The Red Sea crisis was dropped (Middle East).
     - **Warm-up:** the first 52 weeks are flagged with `events_warmup`, because events that started before 2015 are missing from the file.
 
-**For modeling:** don't use a week's event features or `shipping_delay_days` to predict that same week's `route_status`. Use week *t* to predict week *t+1* (The previous week of the desired week you want to predict).
+**For modeling:** don't use a week's event features or `shipping_delay_days` to predict that same week's `route_status`. Use week *t* to predict week *t+1* (The previous week of the desired week you want to predict). `notebooks/04_forward_prediction_comparison.ipynb` tests this directly. With a chronological split, the current features, with or without lag and rolling features, score at the no-skill level for next week's status. The models in 03 are therefore same-week classifiers.
 
 ## Files Used for Modeling
 
